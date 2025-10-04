@@ -1,2 +1,2 @@
 print("hola mundo")
-print("Hola universo")
+print("Hola universo infinito")
